@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>DiscoverBeacon.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>AFB5656427C60945E37459016E390019ED030560</string>
+				<key>dateExpires</key>
+				<string>26/05/2021</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>QAGW5T4DA2.it.nextrace.DiscoverBeacon</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>QAGW5T4DA2</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>QAGW5T4DA2.it.nextrace.DiscoverBeacon</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>DiscoverBeacon.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>efe1a83f-60cc-47e2-b6e8-4a4b1837308f</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>QAGW5T4DA2</string>
+				<key>name</key>
+				<string>giovanni gadaleta</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
